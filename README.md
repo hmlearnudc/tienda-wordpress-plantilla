@@ -1,0 +1,1 @@
+# tienda-wordpress-plantilla
